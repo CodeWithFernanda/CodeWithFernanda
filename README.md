@@ -1,8 +1,8 @@
-# 🚀 Meu Repositório de Aprendizado
+#  Meu Repositório de Aprendizado
 
 Olá! 👋 Sou Fernanda, uma entusiasta da tecnologia em constante evolução. Este repositório é um espaço onde compartilho meus estudos, experimentos e desafios no mundo da programação.
 
-## 🌱 Sobre mim
+##  Sobre mim
 - 💻 Explorando novas linguagens, frameworks e conceitos.
 - 🔎 Buscando aprimorar minhas habilidades e compartilhar conhecimento.
 - 🤝 Aberta a colaborações e feedbacks para crescer ainda mais!
@@ -12,7 +12,7 @@ Olá! 👋 Sou Fernanda, uma entusiasta da tecnologia em constante evolução. E
 - Notas e materiais de estudo sobre tecnologia.
 - Aprendizados e desafios do meu dia a dia como desenvolvedora.
 
-## 🚀 Como contribuir?
+##  Como contribuir?
 Se quiser sugerir melhorias ou compartilhar conhecimento, sinta-se à vontade para:
 1. Fazer um **fork** do repositório.
 2. Criar um **branch** com suas contribuições.
